@@ -1,7 +1,7 @@
 
 <!-- Brief Introduction -->
-<h1 style="font-size: 3em;">Hi, I'm Yogeshwari Joshi!</h1>
-
+<h1 style="font-size: 3em;">Yogeshwari Joshi</h1>
+I'm a passionate Software Engineer with expertise in various technologies and skills.
 
 <!-- Contact Information -->
 ## Contact
